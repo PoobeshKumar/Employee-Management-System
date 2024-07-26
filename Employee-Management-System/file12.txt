@@ -1,0 +1,7 @@
+Employee ID:12
+Employee Name     :m
+Father's Name     :m
+Employee Contact  :123
+Email Information :anb@gmail.com
+Employee position :manager
+Employee Salary   :123
